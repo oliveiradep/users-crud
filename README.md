@@ -1,7 +1,7 @@
 # users-crud
 Spring Framework with Maven
 
-# Local
+# Technologies
 Docker  
 MongoDB  
 Postman
