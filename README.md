@@ -1,7 +1,8 @@
 # users-crud
-Spring Framework with Maven
+A simple CRUD microservice
 
 # Technologies
+Spring Boot  
 Docker  
 MongoDB  
 Postman
